@@ -1,4 +1,4 @@
-package com.mycompany.temperaturapt;
+Ejemplo de Programacion Tradicional
 import java.util.Scanner;
 public class TemperaturaPT {
 
