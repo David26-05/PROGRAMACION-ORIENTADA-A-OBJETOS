@@ -1,4 +1,4 @@
-/*Ejemplo de Programacion Tradicional*/
+/*Ejemplo Programacion Tradicional*/
 import java.util.Scanner;
 public class TemperaturaPT {
 
